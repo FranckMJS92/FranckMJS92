@@ -41,12 +41,12 @@ Me encanta todo lo relacionado con las ciencias, la matemática y la computació
 
 <h4>Lenguajes de Marca</h4>
     <p>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
+        <a href="https://es.wikipedia.org/wiki/HTML5" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
+        <a href="https://es.wikipedia.org/wiki/CSS#:~:text=junio%20de%202011.-,CSS3,anteriores%20para%20mantener%20la%20compatibilidad.&text=Debido%20a%20la%20modularizaci%C3%B3n%20del,nombres%22%20y%20%22Color%22." target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
         <a href="https://es.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
-      <a href="https://github.com/FranckMJS92/FranckMJS92/blob/1cf04d0b6436bc934c4e4232bc09bc01c079e73d/imagenes/json.jpg" target="_blank" rel="noreferrer"> <img src="https://github.com/FranckMJS92/FranckMJS92/blob/1cf04d0b6436bc934c4e4232bc09bc01c079e73d/imagenes/json.jpg" alt="json" width="60" height="40" /> </a>
-      <a href="https://github.com/FranckMJS92/FranckMJS92/blob/1cf04d0b6436bc934c4e4232bc09bc01c079e73d/imagenes/xml.jpg" target="_blank" rel="noreferrer"> <img src="https://github.com/FranckMJS92/FranckMJS92/blob/1cf04d0b6436bc934c4e4232bc09bc01c079e73d/imagenes/xml.jpg" alt="xml" width="40" height="40" /> </a>
-      <a href="https://github.com/FranckMJS92/FranckMJS92/blob/1cf04d0b6436bc934c4e4232bc09bc01c079e73d/imagenes/yaml.jpg" target="_blank" rel="noreferrer"> <img src="https://github.com/FranckMJS92/FranckMJS92/blob/1cf04d0b6436bc934c4e4232bc09bc01c079e73d/imagenes/yaml.jpg" alt="yaml" width="40" height="40" /> </a>
+      <a href="https://es.wikipedia.org/wiki/JSON" target="_blank" rel="noreferrer"> <img src="https://github.com/FranckMJS92/FranckMJS92/blob/1cf04d0b6436bc934c4e4232bc09bc01c079e73d/imagenes/json.jpg" alt="json" width="60" height="40" /> </a>
+      <a href="https://es.wikipedia.org/wiki/Extensible_Markup_Language" target="_blank" rel="noreferrer"> <img src="https://github.com/FranckMJS92/FranckMJS92/blob/1cf04d0b6436bc934c4e4232bc09bc01c079e73d/imagenes/xml.jpg" alt="xml" width="40" height="40" /> </a>
+      <a href="https://es.wikipedia.org/wiki/YAML" target="_blank" rel="noreferrer"> <img src="https://github.com/FranckMJS92/FranckMJS92/blob/1cf04d0b6436bc934c4e4232bc09bc01c079e73d/imagenes/yaml.jpg" alt="yaml" width="40" height="40" /> </a>
     </p>
 
 <h4>Motor de Base de Datos</h4>
