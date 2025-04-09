@@ -47,7 +47,6 @@ Me encanta todo lo relacionado con las ciencias, la matemática y la computació
       <a href="https://github.com/FranckMJS92/FranckMJS92/blob/1cf04d0b6436bc934c4e4232bc09bc01c079e73d/imagenes/json.jpg" target="_blank" rel="noreferrer"> <img src="https://github.com/FranckMJS92/FranckMJS92/blob/1cf04d0b6436bc934c4e4232bc09bc01c079e73d/imagenes/json.jpg" alt="json" width="60" height="40" /> </a>
       <a href="https://github.com/FranckMJS92/FranckMJS92/blob/1cf04d0b6436bc934c4e4232bc09bc01c079e73d/imagenes/xml.jpg" target="_blank" rel="noreferrer"> <img src="https://github.com/FranckMJS92/FranckMJS92/blob/1cf04d0b6436bc934c4e4232bc09bc01c079e73d/imagenes/xml.jpg" alt="xml" width="40" height="40" /> </a>
       <a href="https://github.com/FranckMJS92/FranckMJS92/blob/1cf04d0b6436bc934c4e4232bc09bc01c079e73d/imagenes/yaml.jpg" target="_blank" rel="noreferrer"> <img src="https://github.com/FranckMJS92/FranckMJS92/blob/1cf04d0b6436bc934c4e4232bc09bc01c079e73d/imagenes/yaml.jpg" alt="yaml" width="40" height="40" /> </a>
-      
     </p>
 
 <h4>Motor de Base de Datos</h4>
