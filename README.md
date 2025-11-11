@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hola, soy Francisco López 🙋🏽‍♂️</h1>
 
 <h3 align="center">Estudiante Desarrollo de Aplicaciones Multiplataforma</h3>
-
-
 ---
 
 ​🏠​ ¡Bienvenid@ a mi perfil de GitHub!  
@@ -24,62 +22,61 @@ Me encanta todo lo relacionado con las ciencias, la matemática y la computació
 
 ---
 
+## 🛠️ Tecnologías y Herramientas
 
-<h3 align="left">Puedes encontrarme en:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/francisco-lopezmonrroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-</p>
+### 💻 Lenguajes de Programación
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### 🗄️ Bases de Datos
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### 🌐 Desarrollo Web
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### 🔧 Herramientas y Entornos
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ---
 
-- ⚡ Tengo conocimientos de :
+## 📫 Contáctame
 
-<h4>Lenguajes de Programación</h4>
-<p>
-  <a href="https://www.java.com" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" padding="10px"/> </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-lopezmonrroy)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:franciscolm92@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FranckMJS92)
 
-<h4>Lenguajes de Marca</h4>
-    <p>
-        <a href="https://es.wikipedia.org/wiki/HTML5" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
-        <a href="https://es.wikipedia.org/wiki/CSS#:~:text=junio%20de%202011.-,CSS3,anteriores%20para%20mantener%20la%20compatibilidad.&text=Debido%20a%20la%20modularizaci%C3%B3n%20del,nombres%22%20y%20%22Color%22." target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
-        <a href="https://es.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
-      <a href="https://es.wikipedia.org/wiki/JSON" target="_blank" rel="noreferrer"> <img src="https://github.com/FranckMJS92/FranckMJS92/blob/1cf04d0b6436bc934c4e4232bc09bc01c079e73d/imagenes/json.jpg" alt="json" width="60" height="40" /> </a>
-      <a href="https://es.wikipedia.org/wiki/Extensible_Markup_Language" target="_blank" rel="noreferrer"> <img src="https://github.com/FranckMJS92/FranckMJS92/blob/1cf04d0b6436bc934c4e4232bc09bc01c079e73d/imagenes/xml.jpg" alt="xml" width="40" height="40" /> </a>
-      <a href="https://es.wikipedia.org/wiki/YAML" target="_blank" rel="noreferrer"> <img src="https://github.com/FranckMJS92/FranckMJS92/blob/1cf04d0b6436bc934c4e4232bc09bc01c079e73d/imagenes/yaml.jpg" alt="yaml" width="40" height="40" /> </a>
-    </p>
+---
 
-<h4>Motor de Base de Datos</h4>
-    <p>
-        <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" /> </a>
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
-        <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /></a>
-        <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" /> </a>
-    </p>
+## 🌟 Logros
+
+<div align="center">
   
-<h4>Sistemas Operativos</h4>
-    <p>
-        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
-      <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/Pf69dYH4/wserver.png' border='0' alt='wserver' width="60" height="40"/></a>
-      <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/6qNNv1tn/windows.jpg' border='0' alt='windows' width="50" height="40"/></a>
-    </p>
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=FranckMJS92&theme=radical&no-frame=true&row=2&column=4)
 
-<h4>Herramientas y Tecnologías</h4>
-        <p>
-            <a><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="60" height="40"/>&nbsp;
-           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" title="Eclipse" alt="Eclipse" width="40" height="40"/>&nbsp;
-        </p>
+</div>
 
 ---
 
-  ### 📊 Mis estadísticas
+## 📊 Estadísticas de GitHub
 
-<table>
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranckMJS92&theme=radical&card_width=450em)](https://github.com/FranckMJS92/FranckMJS92/github-readme-stats"/></td>
-    <td valign="top">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FranckMJS92&show_icons=true&theme=radical&include_all_commits=true" />
-</td>
-  </tr>
-</table>
+### 📈 Mis Stats
+<div align="center">
+  
+<!-- Stats con espacio personalizado -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FranckMJS92&show_icons=true&theme=radical&include_all_commits=true" style="margin-right: 25px;" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranckMJS92&layout=compact&theme=radical" style="margin-left: 25px;" />
+
+</div>
+
+### 🔥 Racha de Contribuciones
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FranckMJS92&theme=radical" alt="streak" width="100%" />
+
+### 📈 Actividad Reciente
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FranckMJS92&theme=radical" alt="activity" width="100%" />
+
+⭐️ *From [FranckMJS92](https://github.com/FranckMJS92)*
