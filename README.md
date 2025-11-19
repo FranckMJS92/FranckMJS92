@@ -12,9 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hola, soy Francisco López 🙋🏽‍♂️</h1>
+<h3 align="center" font-size="100px">Hola, soy Francisco López 🙋🏽‍♂️</h3>
+
+---
 
 <h3 align="center">Estudiante Desarrollo de Aplicaciones Multiplataforma</h3>
+
 ---
 
 ​🏠​ ¡Bienvenid@ a mi perfil de GitHub!  
