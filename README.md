@@ -60,7 +60,8 @@ Me encanta todo lo relacionado con las ciencias, la matemática y la computació
 
 <div align="center">
   
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=FranckMJS92&theme=radical&no-frame=true&row=2&column=4)
+<!-- ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=FranckMJS92&theme=radical&no-frame=true&row=2&column=4) -->
+![Franck's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=FranckMJS92&show_icons=true&theme=radical)
 
 </div>
 
@@ -70,15 +71,17 @@ Me encanta todo lo relacionado con las ciencias, la matemática y la computació
 
 ### 📈 Mis Stats
 <div align="center">
-  
-<!-- Stats con espacio personalizado -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FranckMJS92&show_icons=true&theme=radical&include_all_commits=true" style="margin-right: 25px;" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranckMJS92&layout=compact&theme=radical" style="margin-left: 25px;" />
-
+   <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=FranckMJS92&layout=compact&theme=radical&langs_count=8" style="margin-left: 25px;" />
 </div>
 
 ### 🔥 Racha de Contribuciones
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FranckMJS92&theme=radical" alt="streak" width="100%" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Streak-En%20desarrollo-orange?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Streak" />
+  <br>
+  <img src="https://img.shields.io/badge/Contribuciones%20diarias-0-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Racha%20actual-0%20días-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Racha%20máxima-0%20días-green?style=flat-square" />
+</p>
 
 ### 📈 Actividad Reciente
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FranckMJS92&theme=radical" alt="activity" width="100%" />
