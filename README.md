@@ -74,14 +74,18 @@ Me encanta todo lo relacionado con las ciencias, la matemática y la computació
    <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=FranckMJS92&layout=compact&theme=radical&langs_count=8" style="margin-left: 25px;" />
 </div>
 
+<!-- No funciona
 ### 🔥 Racha de Contribuciones
 <p align="center">
-  <img src="https://img.shields.io/badge/Streak-En%20desarrollo-orange?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Streak" />
+  <img src="https://komarev.com/ghpvc/?username=FranckMJS92&color=red&style=flat-square" alt="profile views" />
   <br>
-  <img src="https://img.shields.io/badge/Contribuciones%20diarias-0-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Racha%20actual-0%20días-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Racha%20máxima-0%20días-green?style=flat-square" />
+  <strong>📈 Estadísticas de actividad</strong>
+  <br><br>
+  <img src="https://img.shields.io/github/stars/FranckMJS92?color=red&logo=github" />
+  <img src="https://img.shields.io/github/followers/FranckMJS92?color=red&logo=github" />
+  <img src="https://img.shields.io/github/commit-activity/w/FranckMJS92?color=red&logo=github" />
 </p>
+-->
 
 ### 📈 Actividad Reciente
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FranckMJS92&theme=radical" alt="activity" width="100%" />
