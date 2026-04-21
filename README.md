@@ -1,93 +1,122 @@
-<!--
-**FranckMJS92/FranckMJS92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Francisco López | DAM Student & Software Developer</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">Java · Python · React · Spring Boot</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h3 align="center" font-size="100px">Hola, soy Francisco López 🙋🏽‍♂️</h3>
-
----
-
-<h3 align="center">Estudiante Desarrollo de Aplicaciones Multiplataforma</h3>
-
----
-
-​🏠​ ¡Bienvenid@ a mi perfil de GitHub!  
-Me encanta todo lo relacionado con las ciencias, la matemática y la computación. Me interesa mucho seguir ampliando mis conocimientos en todos los ámbitos para desarrollarme profesional y personalmente.
-
----
-
-## 🛠️ Tecnologías y Herramientas
-
-### 💻 Lenguajes de Programación
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-
-### 🗄️ Bases de Datos
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### 🌐 Desarrollo Web
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### 🔧 Herramientas y Entornos
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
----
-
-## 📫 Contáctame
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-lopezmonrroy)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:franciscolm92@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FranckMJS92)
-
----
-
-## 🌟 Logros
-
-<div align="center">
-  
-<!-- ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=FranckMJS92&theme=radical&no-frame=true&row=2&column=4) -->
-![Franck's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=FranckMJS92&show_icons=true&theme=radical)
-
-</div>
-
----
-
-## 📊 Estadísticas de GitHub
-
-### 📈 Mis Stats
-<div align="center">
-   <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=FranckMJS92&layout=compact&theme=radical&langs_count=8" style="margin-left: 25px;" />
-</div>
-
-<!-- No funciona
-### 🔥 Racha de Contribuciones
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FranckMJS92&color=red&style=flat-square" alt="profile views" />
-  <br>
-  <strong>📈 Estadísticas de actividad</strong>
-  <br><br>
-  <img src="https://img.shields.io/github/stars/FranckMJS92?color=red&logo=github" />
-  <img src="https://img.shields.io/github/followers/FranckMJS92?color=red&logo=github" />
-  <img src="https://img.shields.io/github/commit-activity/w/FranckMJS92?color=red&logo=github" />
+  Estudiante de Desarrollo de Aplicaciones Multiplataforma con interés en el desarrollo de software, el aprendizaje continuo y la creación de soluciones prácticas.
 </p>
--->
 
-### 📈 Actividad Reciente
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FranckMJS92&theme=radical" alt="activity" width="100%" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/francisco-lopezmonrroy">
+    <img src="https://img.shields.io/badge/LinkedIn-Francisco%20López-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:franciscolm92@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/FranckMJS92">
+    <img src="https://img.shields.io/badge/GitHub-FranckMJS92-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-⭐️ *From [FranckMJS92](https://github.com/FranckMJS92)*
+---
+
+## 👨🏽‍💻 About Me
+
+I am a **Multiplatform Application Development student** with a strong interest in software development and continuous learning.
+
+My strongest technical foundation is in **Java** and **Python**, which have been the main languages throughout my training. I have also worked with **React** and **Tailwind CSS** for frontend development, and with **Spring Boot** for backend applications.
+
+During my professional internship, I gained hands-on experience working with **C#**, **Blazor**, and **ASP.NET**, which allowed me to become familiar with real development environments and business applications.
+
+I have also worked with relational databases such as **MySQL** and **SQL Server**, and I have had an introductory experience with **MongoDB**.
+
+I am currently looking for opportunities to continue growing as a developer, contribute to real projects, and strengthen my skills in modern software development.
+
+---
+
+## 🚀 Main Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
+
+### Frameworks & Technologies
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+</p>
+
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
+
+### Tools & Environment
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Strengthening my skills in **Java** and **Python**
+- Building modern interfaces with **React + Tailwind CSS**
+- Developing backend applications with **Spring Boot**
+- Improving my knowledge of **databases**, clean code, and software best practices
+- Gaining experience through real-world projects and collaborative development
+
+---
+
+## 📌 What I’m Looking For
+
+I am currently seeking an internship or junior developer opportunity where I can continue learning, contribute to meaningful projects, and grow within a professional development team.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats-one-bice.vercel.app/api?username=FranckMJS92&show_icons=true&theme=radical" />
+  <img height="170em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=FranckMJS92&layout=compact&theme=radical&langs_count=8" />
+</div>
+
+---
+
+## 📈 Recent Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FranckMJS92&theme=radical" alt="activity graph" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  Open to learning, building, and contributing 🚀
+</p>
