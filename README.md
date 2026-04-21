@@ -3,18 +3,18 @@
 <h3 align="center">Java · Python · React · Spring Boot</h3>
 
 <p align="center">
-  Estudiante de Desarrollo de Aplicaciones Multiplataforma con interés en el desarrollo de software, el aprendizaje continuo y la creación de soluciones prácticas.
+  Multiplatform Application Development student passionate about software development, continuous learning, and building practical solutions.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/francisco-lopezmonrroy">
-    <img src="https://img.shields.io/badge/LinkedIn-Francisco%20López-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:franciscolm92@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/FranckMJS92">
-    <img src="https://img.shields.io/badge/GitHub-FranckMJS92-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
 
